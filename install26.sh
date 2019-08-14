@@ -43,11 +43,11 @@ echo "SELAMAT DATANG DI MY TOOLS"  | lolcat
 echo "PROGRAM CODING BY.Mr.Yoga"  | lolcat
 echo "GITHUB : cyber2612" | lolcat
 echo "═════════•ೋೋ•═══•ೋೋ•══════════" | lolcat
-cowsay -f meow "Hallo Brother" | lolcat
+cowsay -f eyes "Hallo Brother" | lolcat
 date
 echo "DAFTAR PILIHAN TOOLS INSTALLER " | lolcat
 echo "1 Dark3           √" | lolcat
-echo "═════════════════" | lolcat
+echo "═════════════════"| lolcat
 echo "2 diamond-1       √" | lolcat
 echo "═════════════════" | lolcat
 echo "3 Hack2.4         √" | lolcat
